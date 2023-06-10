@@ -1,32 +1,3 @@
-// let hr = 0;
-// let min = 0;
-// let sec = 0;
-// let counter = 0;
-
-// let timer = false;
-// function start(){
-//     timer = true;
-//     console.log("working");
-//     stopwatch();
-// }
-
-// function stop(){
-//     timer = false;
-// }
-
-// function reset(){
-//     timer = false;
-// }
-
-// function stopwatch(){
-//     if(timer == true){
-//         counter = counter+1;
-//         document.getElementById('count').innerHTML = counter;
-//         console.log("working");
-//         setTimeout("stopwatch()", 10);
-//     }
-// }
-
 
 let startBtn = document.getElementById('start');
 let stopBtn = document.getElementById('stop');
